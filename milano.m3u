@@ -86,12 +86,16 @@ http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="香港电台31" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="港台",香港电台31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="香港电台32" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="港台",RTHK32
+#EXTINF:-1 tvg-id="42" tvg-name="香港电台32" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="港台",香港电台32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
-http://113.64.147.66:808/hls/67/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台",明珠台
-http://113.64.147.66:808/hls/26/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="TVB翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",TVB翡翠台
+http://gg.gg/gdtvb1
+#EXTINF:-1 tvg-id="44" tvg-name="TVB明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台",TVB明珠台
+http://gg.gg/gdtvb2
+#EXTINF:-1 tvg-id="44" tvg-name="TVB新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台",TVB新闻台
+http://gg.gg/gdtvb3
+#EXTINF:-1 tvg-id="44" tvg-name="TVB财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台",TVB财经台
+http://gg.gg/gdtvb4
 #EXTINF:-1 tvg-id="45" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png" group-title="港台",民视
 http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 #EXTINF:-1 tvg-id="46" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港台",台视
@@ -100,10 +104,10 @@ http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17
 http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 #EXTINF:-1 tvg-id="48" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台",华视
 http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
-#EXTINF:-1 tvg-id="49" tvg-name="国家地理(台湾)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png" group-title="港台",国家地理(台湾)
+#EXTINF:-1 tvg-id="49" tvg-name="三立台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="港台",三立台湾
+http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 tvg-id="50" tvg-name="国家地理(台湾)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png" group-title="港台",国家地理(台湾)
 http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 
-#EXTINF:-1 tvg-id="50" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="国际",CGTN
+#EXTINF:-1 tvg-id="51" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="国际",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="CGTN Documentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="国际",CGTN Documentary
-http://live.cgtn.com/1000d/prog_index.m3u8
