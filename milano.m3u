@@ -112,4 +112,4 @@ https://4g.52sf.ga/channel2.m3u8?fid=4gtv-live114&hd=720
 http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 
 #EXTINF:-1 tvg-id="51" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="国际",CGTN
-https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=305
+http://live.cgtn.com/1000/prog_index.m3u8
