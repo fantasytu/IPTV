@@ -89,7 +89,7 @@ https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=1
 #EXTINF:-1 tvg-id="42" tvg-name="TVB财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台",TVB财经台
 https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=2
 #EXTINF:-1 tvg-id="43" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港台",中视新闻
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1663872658/ei/MlosY46UFZmFhgael7zYDA/ip/20.12.78.186/id/TCnaIE_SAtM.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-p5qlsnd6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/eb/mm/44/mn/sn-p5qlsnd6/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1663850025/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgPqldmGz5ltJZBTdtDtOLDx5w18FhuT6trOlz3uoiA9MCIHMYdwOq1spFHAMrLSI3KAuO3yl9cXX32mvpRr9GlcCj/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAPHP7gQAbFdG8USkKebJzPntu6ckY19IBaM8dFqcQiu8AiBH23SnVi5LIs6nGgoQV_FKA6JJhkwCDEkpzGLjSM7M-Q%3D%3D/playlist/index.m3u8
+https://git.io/Jgkxz
 #EXTINF:-1 tvg-id="44" tvg-name="中天新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="港台",中天新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 #EXTINF:-1 tvg-id="45" tvg-name="壹新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港台",壹新闻
