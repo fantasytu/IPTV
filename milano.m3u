@@ -101,11 +101,15 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
 #EXTINF:-1 tvg-id="48" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="国际",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="49" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="国际",Discovery
-https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="BBCNews.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="国际",BBC News
-https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="BBCNews.world" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="国际",BBC World News
+#EXTINF:-1 tvg-id="49" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="国际",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="FOXNews" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Logo.png" group-title="国际",FOX News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8?
+#EXTINF:-1 tvg-id="51" tvg-name="BBCNews.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="国际",BBC News
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="BBCNews.world" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="国际",BBC World News
 http://78.83.191.18:8000/play/a07a
-#EXTINF:-1 tvg-id="52" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="国际",HBO
+#EXTINF:-1 tvg-id="53" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="国际",Discovery
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="国际",HBO
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
